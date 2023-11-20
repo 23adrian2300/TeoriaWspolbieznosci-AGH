@@ -1,0 +1,5 @@
+W katalogu Project znajduje się implementacja zadania. 
+W katalogu Plots umieściłem program rysujący wykresy z pomocą biblioteki matplotlib.
+
+Informacje na temat tego jak kompilować programy zostału umieszczone w sprawozdaniu w sekcji
+"Kompilacja".
