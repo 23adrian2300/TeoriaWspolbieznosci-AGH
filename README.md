@@ -1,2 +1,2 @@
-# TW
-Rezpozytorium z przedmiotu Teoria Współbieżności 2023/24
+# Teoria Współbieżności
+Rezpozytorium z przedmiotu Teoria Współbieżności realizowanego na 5 semestrze kierunku Informatyka na AGH.
